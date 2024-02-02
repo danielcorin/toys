@@ -2,8 +2,15 @@
 
 Remember to start the [backend server](../backend/)
 
+## Setup
+
 ```bash
 npm install
+```
+
+## Run
+
+```bash
 npm run dev
 ```
 

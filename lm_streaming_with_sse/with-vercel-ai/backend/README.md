@@ -1,4 +1,4 @@
-# Language model streaming with SSE
+# Language model streaming with SSE - backend
 
 Remember to start the [frontend server](../frontend/)
 
