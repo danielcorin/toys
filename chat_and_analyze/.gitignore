@@ -3,5 +3,3 @@ env
 
 # environment variables
 .env
-
-.DS_Store

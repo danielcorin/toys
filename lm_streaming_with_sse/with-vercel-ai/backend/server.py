@@ -30,4 +30,4 @@ async def ask(req: dict):
             yield chunk.choices[0].delta.content or ""
 
     response_messages = generator()
-    return StreamingResponse(response_messages, media_type='text/event-stream')
+    return StreamingResponse(response_messages, media_type="text/event-stream")
