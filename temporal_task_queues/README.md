@@ -2,6 +2,11 @@
 
 This is a small project showing how to run Temporal workflows and activities with separate workers for a single workflow run.
 
+Code for [this blog post](https://github.com/danielcorin/blog/blob/main/content/til/temporal/using-multiple-task-queues.md)
+
+[Live article](https://www.danielcorin.com/til/temporal/using-multiple-task-queues/)
+
+
 ## Setup
 
 ```sh
