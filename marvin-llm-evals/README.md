@@ -30,3 +30,9 @@ Re-compile `requirements.txt` file:
 ```sh
 uv pip compile requirements.in -o requirements.txt
 ```
+
+## Run
+
+```sh
+pytest test.py
+```
