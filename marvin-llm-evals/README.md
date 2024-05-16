@@ -1,8 +1,9 @@
 # Marvin LLM evals
 
-Code for [this blog post]()
+Code for
+[this blog post](https://github.com/danielcorin/blog/blob/main/content/posts/2024/evals-unit-testing-for-lms.md)
 
-[Live article]()
+[Live article](https://www.danielcorin.com/posts/2024/evals-unit-testing-for-lms/)
 
 This repo contains examples of a unit test-based approach to run LLM evals. It
 uses Prefect's library [`marvin`](https://github.com/prefecthq/marvin), a
