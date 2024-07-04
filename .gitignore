@@ -1,10 +1,12 @@
 # virtualenv
 env
+.venv
 
 # environment variables
 .env
-.venv
 
 .DS_Store
 
 template
+
+__pycache__
