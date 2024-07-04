@@ -2,7 +2,7 @@
 
 Using Temporal to execute multiple child workflows concurrently within a parent workflow
 
-Code for [this blog post]()
+Code for [this blog post](https://github.com/danielcorin/blog/blob/main/content/til/temporal/parallel-child-workflows.md)
 
 [Live article](https://www.danielcorin.com/til/temporal/parallel-child-workflows/)
 
