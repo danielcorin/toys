@@ -13,8 +13,8 @@ make install
 ## Run
 
 ```sh
-python run set1 p1
-python run set1 p2
-python run set2 p1
-python run set2 p2
+python run.py set1 p1
+python run.py set1 p2
+python run.py set2 p1
+python run.py set2 p2
 ```
