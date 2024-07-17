@@ -1,0 +1,467 @@
+set2/0/image_134_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. The blue line forms a V-shape, starting high on the left, dipping down in the middle, and rising again on the right. The red line remains below the blue line throughout, showing a gradual downward slope from left to right without intersecting the blue line.
+0
+set2/0/image_141_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout the graph, with the red line staying above the blue line for the entire duration shown.
+0
+set2/0/image_106_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They both form V-shaped patterns, but the blue line remains above the red line throughout the entire graph.
+0
+set2/0/image_65_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. The blue line remains above the red line throughout the graph, with the blue line showing a V-shape (decreasing then increasing) while the red line gradually slopes downward from left to right.
+0
+set2/0/image_84_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. The blue line remains above the red line throughout the graph, with both lines showing different patterns of increase and decrease.
+0
+set2/0/image_18_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout the graph, with the red line starting and remaining above the blue line for the entire duration shown.
+0
+set2/0/image_7_thickness_4.png
+The blue and red line plots do not cross each other at any point in this image. The blue line remains above the red line throughout the entire graph.
+0
+set2/0/image_146_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout the graph, with the blue line consistently above the red line.
+0
+set2/0/image_117_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They follow similar trends, both showing a decrease and then an increase, but the blue line remains above the red line throughout the graph.
+0
+set2/0/image_63_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout the graph, with the red line consistently above the blue line.
+0
+set2/0/image_19_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They are two separate lines that follow similar triangular shapes, with the blue line consistently above the red line throughout the graph.
+0
+set2/0/image_82_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout their trajectories, with the blue line generally staying above the red line for the entire length of the graph.
+0
+set2/0/image_100_thickness_4.png
+The blue and red line plots in this image cross each other only once, at the rightmost end of the graph.
+1
+set2/0/image_148_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. The blue line forms a triangular shape, starting low, rising to a peak, and then descending again. The red line remains below the blue line throughout, showing a slight downward slope from left to right.
+0
+set2/0/image_48_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout the graph, with the red line staying above the blue line for the entire length of the plot.
+0
+set2/0/image_51_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They follow similar downward and then upward trends, but the blue line remains above the red line throughout the entire graph.
+0
+set2/0/image_9_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout the graph, with the blue line consistently above the red line.
+0
+set2/0/image_135_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They come close to each other near the bottom of the V-shape they both form, but they remain separate throughout the graph.
+0
+set2/0/image_108_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. The red line remains above the blue line throughout the graph.
+0
+set2/0/image_35_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. The red line remains above the blue line throughout the graph, with the red line generally trending upward and the blue line trending downward.
+0
+set2/0/image_85_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. The blue line starts above the red line and remains above it throughout the graph, with both lines showing different trends but never intersecting.
+0
+set2/0/image_99_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout the graph, with the blue line consistently staying above the red line.
+0
+set2/0/image_137_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout the graph, with the red line staying above the blue line for the entire duration shown.
+0
+set2/0/image_91_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts higher on the left side and descends steadily, while the red line starts lower, rises to a peak in the middle, and then descends again. These two lines intersect at a single point roughly in the center of the image.
+1
+set2/0/image_37_thickness_4.png
+The blue and red line plots in the image cross each other once. They start at different points on the left side of the graph, with the red line slightly higher than the blue line. As the lines progress to the right, they intersect at one point before diverging again, with the red line ending up higher than the blue line on the right side of the graph.
+1
+set2/0/image_136_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. The red line remains above the blue line throughout the graph, with both lines showing different trends but never intersecting.
+0
+set2/0/image_55_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout the graph, with the red line staying above the blue line for the entire length of the plot.
+0
+set2/0/image_89_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. The red line starts higher and continues to rise, while the blue line starts lower, dips slightly, and then rises but remains below the red line throughout the graph.
+0
+set2/0/image_143_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. The blue line starts higher on the left side of the image and remains above the red line throughout, with both lines sloping downward from left to right.
+0
+set2/0/image_139_thickness_4.png
+The blue and red line plots in the image cross each other once. They start at nearly the same point on the left side of the graph, then diverge, with the red line rising above the blue line. They do not intersect again within the visible range of the graph.
+1
+set2/0/image_103_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout the graph, with the blue line generally staying above the red line.
+0
+set2/0/image_44_thickness_4.png
+The blue and red line plots in this image cross each other 2 times. The red line starts below the blue line, rises above it, and then falls below it again, creating two intersection points between the two lines.
+2
+set2/0/image_79_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout the graph, with the red line consistently above the blue line.
+0
+set2/0/image_60_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. They remain separate throughout the graph, with the red line consistently above the blue line.
+0
+set2/0/image_76_thickness_4.png
+The blue and red line plots in this image do not cross each other at any point. The red line starts higher than the blue line and remains above it throughout the graph, despite having a dip in the middle while the blue line steadily increases.
+0
+set2/1/image_110_thickness_4.png
+The blue and red line plots cross each other 2 times in the image.
+2
+set2/1/image_10_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines start apart, with the red line higher than the blue line, then they intersect at a single point towards the right side of the graph before diverging again, with the blue line ending up higher than the red line.
+1
+set2/1/image_34_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts higher than the blue line, but as they progress, they intersect at a single point before the blue line continues to rise while the red line remains relatively flat.
+1
+set2/1/image_109_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts below the red line, rises steadily, and intersects the red line near the right side of the graph before continuing to rise above it.
+1
+set2/1/image_73_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts higher on the left side, rises and then falls, while the red line starts lower and steadily rises. They intersect at a single point near the right side of the graph.
+1
+set2/1/image_122_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts higher, rises to a peak, and then descends, while the blue line steadily increases from left to right. These two lines intersect at a single point near the right side of the graph.
+1
+set2/1/image_0_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts higher, slopes downward, and then rises again. The red line starts lower, remains flat for a portion, and then rises steeply. The two lines intersect at a single point as the red line overtakes the blue line towards the right side of the graph.
+1
+set2/1/image_22_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines start separately at the top left, converge and intersect at a single point near the center of the image, and then diverge again with the red line becoming horizontal while the blue line continues to slope downward.
+1
+set2/1/image_25_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines intersect near the left side of the graph, where the blue line is initially lower but then rises to cross above the descending red line.
+1
+set2/1/image_118_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts higher and remains relatively flat, while the blue line begins lower but rises steadily. They intersect at a single point near the right side of the graph, after which the blue line continues to rise above the red line, which begins to decline.
+1
+set2/1/image_46_thickness_4.png
+The blue and red line plots cross each other once in this image.
+1
+set2/1/image_74_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts higher and remains flat for a while before descending sharply, while the red line starts lower and gradually rises. They intersect at a single point near the right side of the graph.
+1
+set2/1/image_133_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines intersect near the left side of the graph, where the blue line is descending and the red line is ascending.
+1
+set2/1/image_33_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines start separately, with the red line above the blue line. As they progress, they converge and intersect at a single point, after which the blue line continues above the red line for the remainder of the graph.
+1
+set2/1/image_149_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts higher than the blue line on the left side of the graph, then descends and intersects the blue line near the center of the image. After this intersection point, the red line continues to descend below the blue line, which remains relatively flat throughout.
+1
+set2/1/image_8_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts below the blue line, rises steeply to cross above it, reaches a peak, and then descends. The blue line starts higher, gradually descends, and then slightly rises towards the end. The two lines intersect at a single point near the left side of the graph.
+1
+set2/1/image_17_thickness_4.png
+The blue and red line plots cross each other only once in this image. The blue line starts higher than the red line on the left side of the graph, then descends steeply, crossing the red line about a quarter of the way from the left edge of the image. After this intersection point, the blue line continues to descend below the red line for the remainder of the graph.
+1
+set2/1/image_124_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines start separately, converge and intersect at a single point near the middle of the graph, and then diverge again towards the right side of the image.
+1
+set2/1/image_119_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts higher and slopes downward, while the blue line begins lower and then rises sharply. They intersect at a single point near the right side of the graph.
+1
+set2/1/image_24_thickness_4.png
+The blue and red line plots cross each other once in this image.
+1
+set2/1/image_6_thickness_4.png
+The blue and red line plots cross each other 1 time in this image. They intersect at a single point near the center of the graph, forming a V-shape.
+1
+set2/1/image_147_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts at the top and generally trends downward, while the blue line starts at the bottom and sharply rises towards the end. They intersect at a single point near the right side of the graph.
+1
+set2/1/image_32_thickness_4.png
+The blue and red line plots cross each other once in this image.
+1
+set2/1/image_75_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines intersect near the left side of the graph, with the red line starting higher and then dropping below the blue line as they move from left to right.
+1
+set2/1/image_132_thickness_4.png
+The blue and red line plots in the image cross each other once. The red line starts below the blue line on the left side of the image, rises above it, and then crosses back below the blue line near the right side of the image.
+1
+set2/1/image_16_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines start at different points on the left side of the graph, with the red line above the blue line. As they progress from left to right, they eventually intersect at a single point before diverging again, with the blue line ending up above the red line on the right side of the graph.
+1
+set2/1/image_11_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts higher and trends downward overall, while the blue line starts lower and trends upward. They intersect at a single point near the right side of the graph.
+1
+set2/1/image_72_thickness_4.png
+The blue and red line plots cross each other once in this image.
+1
+set2/1/image_107_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts higher than the blue line, but as both lines descend, they intersect near the right side of the graph. After this intersection point, the blue line continues to rise while the red line continues to fall.
+1
+set2/1/image_1_thickness_4.png
+The blue and red line plots cross each other once in this image.
+1
+set2/1/image_23_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts higher on the left side and descends, while the red line starts lower on the left and ascends. They intersect at a single point near the center-right of the image.
+1
+set2/1/image_123_thickness_4.png
+The blue and red line plots cross each other once in this image.
+1
+set2/1/image_64_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts higher on the left side and rises at a slower rate, while the blue line starts lower but rises more steeply. They intersect near the right side of the graph.
+1
+set2/1/image_145_thickness_4.png
+The blue and red line plots in the image cross each other 1 time. This intersection occurs roughly in the middle of the graph, where the descending red line crosses the blue line before both lines begin to ascend again.
+1
+set2/1/image_102_thickness_4.png
+The blue and red line plots cross each other once in this image.
+1
+set2/1/image_45_thickness_4.png
+The blue and red line plots in the image cross each other once. They start at different points on the left side of the graph, with the blue line higher than the red line. As they both descend and then rise again, they intersect at a single point before diverging again, with the red line ending higher than the blue line on the right side of the graph.
+1
+set2/1/image_78_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts higher on the left side of the graph and descends, while the blue line starts lower and ascends. They intersect at a single point towards the right side of the graph.
+1
+set2/1/image_61_thickness_4.png
+The blue and red line plots in this image cross each other once. The blue line starts higher and generally slopes downward, while the red line starts lower and has a V-shape, rising sharply towards the end. They intersect at a single point near the right side of the graph.
+1
+set2/1/image_129_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts higher than the red line, rises to a peak, and then descends. The red line starts lower but steadily rises throughout. These two lines intersect at a single point near the right side of the image.
+1
+set2/1/image_114_thickness_4.png
+The blue and red line plots cross each other once in this graph.
+1
+set2/1/image_29_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines intersect near the left side of the graph, after which the blue line continues to rise while the red line descends.
+1
+set2/1/image_14_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts low on the left, rises to a peak in the middle, and then descends to the right. The red line starts high on the left and descends steadily to the right. These two lines intersect at a single point, roughly in the left-center portion of the graph.
+1
+set2/1/image_77_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts higher than the red line, but as they progress from left to right, the red line rises more steeply and eventually intersects and crosses above the blue line near the right side of the graph.
+1
+set2/1/image_130_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts lower than the red line, rises steeply to cross over the red line, reaches a peak, and then descends. The red line starts higher and gradually descends throughout the graph. The two lines intersect at a single point roughly in the middle of the image.
+1
+set2/1/image_70_thickness_4.png
+The blue and red line plots cross each other 2 times in the image. They intersect once on the ascending part of the graph (left side) and once on the descending part (right side), forming an X-like shape.
+2
+set2/1/image_13_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts higher on the left side and descends, while the red line starts lower on the left side and ascends. They intersect at a single point near the center-right of the image.
+1
+set2/1/image_54_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts higher on the left side and slopes downward, while the red line starts lower on the left and slopes upward. They intersect at a single point roughly in the middle of the graph.
+1
+set2/1/image_113_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines intersect at a single point near the left side of the graph, after which the red line continues to rise above the blue line for the remainder of the plot.
+1
+set2/1/image_3_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts higher and generally trends downward, while the red line starts lower and trends upward. They intersect near the right side of the graph.
+1
+set2/1/image_21_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines intersect at a single point near the left side of the graph, where the blue line is ascending and the red line is descending.
+1
+set2/1/image_121_thickness_4.png
+The blue and red line plots in the image cross each other once. They intersect at a single point near the middle of the graph, just before reaching their peak values.
+1
+set2/1/image_105_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts at the top left and descends diagonally, while the red line starts at the bottom left and ascends diagonally. They intersect at a single point near the center of the image.
+1
+set2/1/image_38_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts lower on the left side and rises steadily, while the red line starts higher on the left and descends before rising again. These two lines intersect at a single point near the center of the image.
+1
+set2/1/image_142_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines intersect at a single point near the middle of the graph, where the blue line is rising and the red line is falling.
+1
+set2/1/image_90_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts higher on the left side, then descends sharply, while the red line starts lower and ascends gradually. These two lines intersect at a single point near the left side of the image.
+1
+set2/1/image_36_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines intersect near the left side of the graph, with the blue line starting higher and descending, while the red line starts lower and ascends. After this intersection point, the lines diverge and do not cross again within the visible area of the graph.
+1
+set2/1/image_71_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts lower than the red line, rises steeply, and then intersects the red line as it continues to rise while the red line gradually descends.
+1
+set2/1/image_68_thickness_4.png
+The blue and red line plots in the image cross each other once. The blue line starts lower than the red line, rises more steeply, and then levels off. The red line has a more gradual increase throughout. They intersect at a single point towards the right side of the graph.
+1
+set2/1/image_112_thickness_4.png
+The blue and red line plots cross each other once in this image.
+1
+set2/1/image_12_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines start apart, converge as they rise, intersect at a single point, and then diverge again as they descend.
+1
+set2/1/image_120_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines intersect at a single point near the center of the graph, where the blue line is descending and the red line is relatively flat before both lines change direction.
+1
+set2/1/image_2_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines start at different points on the left side of the graph, with the red line higher than the blue line. As they progress to the right, they intersect at a single point before diverging again, with the blue line ending up higher than the red line on the right side of the graph.
+1
+set2/1/image_20_thickness_4.png
+The blue and red line plots in the image cross each other once. The lines start at different points, with the blue line higher than the red line, and they intersect near the right side of the image before diverging again, with the red line ending higher than the blue line.
+1
+set2/1/image_86_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts higher and rises more steeply at first, while the blue line begins lower and rises more gradually. Towards the right side of the graph, the blue line eventually intersects and crosses above the red line.
+1
+set2/1/image_43_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts at the top left and descends diagonally, while the red line starts at the bottom left and ascends, with a slight change in slope partway through. These two lines intersect at a single point near the right side of the image.
+1
+set2/1/image_104_thickness_4.png
+The blue and red line plots cross each other once in this image.
+1
+set2/1/image_144_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts lower on the left side and rises, while the blue line starts higher on the left and descends. They intersect at a single point roughly in the middle of the graph.
+1
+set2/1/image_98_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts below the red line, dips lower, and then rises steeply to intersect the red line before continuing upward, while the red line generally slopes downward throughout the graph.
+1
+set2/1/image_81_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts higher on the left side and descends, while the red line starts lower and ascends. They intersect at a single point near the middle of the graph before continuing their respective trajectories.
+1
+set2/1/image_27_thickness_4.png
+The blue and red line plots cross each other once in this image. The lines intersect at a single point near the left side of the graph, after which they diverge, with the blue line ending up higher than the red line on the right side of the image.
+1
+set2/1/image_5_thickness_4.png
+The blue and red line plots cross each other once in this image. They intersect near the left side of the graph, after which the red line rises above the blue line and remains higher for the rest of the plotted range.
+1
+set2/1/image_127_thickness_4.png
+The blue and red line plots cross each other once in this image. The blue line starts below the red line, curves upward, and intersects the red line near the right side of the graph.
+1
+set2/1/image_28_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts higher on the left side and slopes downward, while the blue line starts lower on the left and slopes upward. They intersect at a single point near the middle of the graph.
+1
+set2/1/image_15_thickness_4.png
+The blue and red line plots cross each other once in this image.
+1
+set2/1/image_115_thickness_4.png
+The blue and red line plots cross each other once in this image.
+1
+set2/1/image_131_thickness_4.png
+The blue and red line plots cross each other once in this image. They intersect near the top left of the graph, after which the red line remains above the blue line for the rest of the visible plot.
+1
+set2/1/image_31_thickness_4.png
+The blue and red line plots cross each other once in this image. The red line starts at the top left and descends diagonally, while the blue line starts at the bottom left, rises to a peak, and then descends. These two lines intersect at a single point near the center of the image.
+1
+set2/2/image_57_thickness_4.png
+The blue and red line plots cross each other 1 time in this image. The red line starts higher than the blue line, then dips below it, and finally rises above it again. The point where they intersect occurs roughly in the middle of the graph.
+1
+set2/2/image_92_thickness_4.png
+The blue and red line plots cross each other 2 times in this image.
+2
+set2/2/image_41_thickness_4.png
+The blue and red line plots cross each other 2 times in this image. They intersect once on the left side of the V-shape as the lines are descending, and once on the right side as the lines are ascending.
+2
+set2/2/image_58_thickness_4.png
+The blue and red line plots cross each other 2 times in the image. The red line starts above the blue line, then crosses below it, and then crosses back above it near the right side of the graph.
+2
+set2/2/image_83_thickness_4.png
+The blue and red line plots cross each other 2 times in this image. The first intersection occurs near the left side of the graph, and the second intersection is towards the right side of the graph.
+2
+set2/2/image_62_thickness_4.png
+The blue and red line plots cross each other 2 times in the image.
+2
+set2/2/image_125_thickness_4.png
+The blue and red line plots cross each other twice in this image. The blue line starts below the red line, rises to cross it once on the left side of the graph, continues upward to a peak, then descends to cross the red line again on the right side of the graph before ending below the red line.
+2
+set2/2/image_101_thickness_4.png
+The blue and red line plots cross each other 2 times in this image.
+2
+set2/2/image_49_thickness_4.png
+The blue and red line plots cross each other 2 times in this image. The lines intersect once on the left side of the graph and once on the right side, forming an X-like shape.
+2
+set2/2/image_95_thickness_4.png
+The blue and red line plots cross each other 2 times in the image.
+2
+set2/2/image_50_thickness_4.png
+The blue and red line plots cross each other 2 times in this image.
+2
+set2/2/image_47_thickness_4.png
+The blue and red line plots cross each other 2 times in the image.
+2
+set2/2/image_94_thickness_4.png
+The blue and red line plots cross each other 2 times in this image.
+2
+set2/2/image_116_thickness_4.png
+The blue and red line plots cross each other 2 times in the image.
+2
+set2/2/image_56_thickness_4.png
+The blue and red line plots cross each other 2 times in this image.
+2
+set2/2/image_111_thickness_4.png
+The blue and red line plots cross each other 2 times in the image.
+2
+set2/2/image_93_thickness_4.png
+The blue and red line plots cross each other 2 times in this image.
+2
+set2/2/image_40_thickness_4.png
+The blue and red line plots cross each other 2 times in this image. The red line starts below the blue line, rises to intersect it once, continues rising above it, then falls to intersect it a second time before ending below the blue line again.
+2
+set2/2/image_140_thickness_4.png
+The blue and red line plots cross each other 2 times in this image. They intersect once near the left side of the graph and once near the right side.
+2
+set2/2/image_59_thickness_4.png
+The blue and red line plots in the image cross each other 2 times. The first crossing occurs near the middle of the graph as the red line rises to intersect the blue line. The second crossing happens towards the right side of the graph as the red line falls below the blue line.
+2
+set2/2/image_126_thickness_4.png
+The blue and red line plots cross each other once in this image. They intersect at a single point near the bottom center of the graph, forming a V-shape.
+1
+set2/2/image_80_thickness_4.png
+The blue and red line plots cross each other 2 times in this image. The lines intersect once as the red line is descending and the blue line is relatively flat, and then they cross again as both lines are ascending, with the red line rising more steeply than the blue line.
+2
+set2/2/image_26_thickness_4.png
+The blue and red line plots cross each other twice in this image. The first intersection occurs near the left side of the graph as the red line rises to meet the blue line. The second intersection is on the right side of the graph as the red line falls and crosses the blue line again.
+2
+set2/2/image_4_thickness_4.png
+The blue and red line plots cross each other 2 times in this image.
+2
+set2/2/image_53_thickness_4.png
+The blue and red line plots cross each other 2 times in the image.
+2
+set2/2/image_30_thickness_4.png
+The blue and red line plots cross each other 2 times in this image. The first crossing occurs near the center of the image as the blue line is rising and the red line is falling. The second crossing happens towards the right side of the image as the blue line is descending and the red line is rising sharply.
+2
+set2/2/image_96_thickness_4.png
+The blue and red line plots cross each other 2 times in the image. They intersect once near the left side of the graph and once near the right side of the graph.
+2
+set2/2/image_88_thickness_4.png
+The blue and red line plots cross each other 2 times in this image.
+2
+set2/2/image_69_thickness_4.png
+The blue and red line plots cross each other 2 times in the image.
+2
+set2/2/image_87_thickness_4.png
+The blue and red line plots cross each other 2 times in the image.
+2
+set2/2/image_66_thickness_4.png
+The blue and red line plots cross each other 2 times in the image.
+2
+set2/2/image_42_thickness_4.png
+The blue and red line plots in the image cross each other 2 times. They intersect once near the beginning of the graph on the left side, and once again towards the right side of the graph as the lines are descending.
+2
+set2/2/image_138_thickness_4.png
+The blue and red line plots cross each other 2 times in this image.
+2
+set2/2/image_67_thickness_4.png
+The blue and red line plots cross each other 2 times in this image. The first intersection occurs near the middle of the graph, and the second intersection is towards the right side of the graph.
+2
+set2/2/image_39_thickness_4.png
+The blue and red line plots cross each other 2 times in this image.
+2
+set2/2/image_128_thickness_4.png
+The blue and red line plots cross each other 2 times in this image.
+2
+set2/2/image_52_thickness_4.png
+The blue and red line plots cross each other 2 times in the image.
+2
+set2/2/image_97_thickness_4.png
+The blue and red line plots cross each other 2 times in the image.
+2
+Results summary:
+Expected count 0: 30/35 correct (Accuracy: 85.71%)
+Failed images for count 0:
+  - set2/0/image_100_thickness_4.png
+  - set2/0/image_91_thickness_4.png
+  - set2/0/image_37_thickness_4.png
+  - set2/0/image_139_thickness_4.png
+  - set2/0/image_44_thickness_4.png
+Expected count 1: 75/77 correct (Accuracy: 97.40%)
+Failed images for count 1:
+  - set2/1/image_110_thickness_4.png
+  - set2/1/image_70_thickness_4.png
+Expected count 2: 36/38 correct (Accuracy: 94.74%)
+Failed images for count 2:
+  - set2/2/image_57_thickness_4.png
+  - set2/2/image_126_thickness_4.png
+Overall accuracy: 94.00%

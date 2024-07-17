@@ -1,0 +1,491 @@
+❯ python run.py set1 p1
+set1/0/image_57_thickness_4.png
+The blue and red lines in this image do not intersect at all. Both lines start at separate points on the left side of the image, slope downwards, and then change direction slightly, but they never cross each other.
+0
+set1/0/image_92_thickness_4.png
+The blue and red lines in this image do not intersect at all. They appear to be parallel to each other, forming a V-shape pattern, with the red line positioned slightly above the blue line throughout the image.
+0
+set1/0/image_134_thickness_4.png
+The blue and red lines in this image do not intersect at any point. They are two separate, non-intersecting line segments with different shapes and positions on the image.
+0
+set1/0/image_73_thickness_4.png
+The blue and red lines in this image do not intersect at any point. They are two separate, roughly parallel zigzag lines, with the red line positioned above the blue line throughout the image.
+0
+set1/0/image_118_thickness_4.png
+The blue and red lines in this image do not intersect at any point. The blue line starts higher on the left side and remains above the red line throughout the graph, with both lines generally sloping downward from left to right. The blue line has a sharp angle where it levels off towards the right side, while the red line continues its downward slope more consistently.
+0
+set1/0/image_49_thickness_4.png
+The blue and red lines intersect once in this image. The red line starts higher on the left side and descends, while the blue line starts lower on the left and rises. They cross each other at a single point near the center of the image before diverging again, with the blue line then descending and the red line leveling off towards the right side of the image.
+1
+set1/0/image_74_thickness_4.png
+The blue and red lines do not intersect at any point in this image. The red line is descending diagonally from left to right across the top of the image, while the blue line has a slight upward curve in the middle but remains below the red line throughout the entire width of the image.
+0
+set1/0/image_133_thickness_4.png
+The blue and red lines in this image do not intersect at any point. They follow similar angular patterns but remain separate throughout the image, with the red line positioned above the blue line.
+0
+set1/0/image_95_thickness_4.png
+The blue and red lines intersect once in this image. Both lines start at different points on the left side of the image, converge as they move to the right, intersect at a single point, and then diverge again as they continue towards the right side of the image.
+1
+set1/0/image_33_thickness_4.png
+The blue and red lines intersect once in the image. They cross each other near the center of the image, forming an "X" shape.
+1
+set1/0/image_8_thickness_4.png
+The blue and red lines in this image do not intersect at all. The blue line remains above the red line throughout the entire image, with no points where they cross each other.
+0
+set1/0/image_124_thickness_4.png
+The blue and red lines in this image do not intersect at all. The blue line starts higher on the left, dips down in the middle, and then rises sharply on the right. The red line starts below the blue line on the left and continues to descend gradually, staying below the blue line throughout the entire image.
+0
+set1/0/image_119_thickness_4.png
+The blue and red lines in this image do not intersect at all. The red line forms a peaked shape above the blue line, which is a gradually ascending straight line. The two lines remain separate throughout the image without crossing each other.
+0
+set1/0/image_19_thickness_4.png
+The blue and red lines in this image do not intersect at all. The blue line forms a peaked shape above the red line, while the red line is a straight line that runs below the blue line without touching it at any point.
+0
+set1/0/image_32_thickness_4.png
+The blue and red lines in this image do not intersect at all. The red line is a straight diagonal line from the top left to the bottom right of the image, while the blue line is below it and has an angular shape, going down slightly and then up again, but never crossing the red line.
+0
+set1/0/image_148_thickness_4.png
+The blue and red lines in this image do not intersect at all. They appear to be parallel to each other, both forming a V-shape, with the red line positioned above the blue line. The lines maintain a consistent distance from each other throughout their length without crossing at any point.
+0
+set1/0/image_135_thickness_4.png
+The blue and red lines in this image do not intersect at all. They appear to be two separate lines that are roughly parallel to each other, with the blue line positioned above the red line throughout the graph. Both lines show an upward trend from left to right, with the blue line having a slightly steeper slope than the red line.
+0
+set1/0/image_108_thickness_4.png
+The blue and red lines in this image do not intersect at any point. They remain separate throughout the graph, with the red line staying above the blue line for the entire length shown.
+0
+set1/0/image_140_thickness_4.png
+The blue and red lines in this image intersect once. The red line starts above the blue line, then they cross each other about halfway through the image, after which the red line changes direction and moves upward while the blue line continues its downward trajectory.
+1
+set1/0/image_23_thickness_4.png
+The blue and red lines in this image do not intersect at all. They appear to be parallel to each other, both forming a V-shape, with the red line positioned slightly above the blue line throughout their length.
+0
+set1/0/image_64_thickness_4.png
+The blue and red lines in this image do not intersect at any point. They follow similar downward trajectories and then level off, but they remain separate throughout the visible portion of the graph.
+0
+set1/0/image_102_thickness_4.png
+The blue and red lines in this image do not intersect at all. They form two separate zigzag or mountain-like shapes, with the blue line positioned above the red line. Both lines have similar shapes but they do not cross or touch each other at any point.
+0
+set1/0/image_26_thickness_4.png
+The blue and red lines intersect once in this image. The red line forms a V-shape, while the blue line is relatively straight but slightly angled downward. These two lines cross each other at a single point near the center of the image.
+1
+set1/0/image_114_thickness_4.png
+The blue and red lines in this image do not intersect at all. The red line starts at the top left of the image and slopes downward to the right, while the blue line starts at the bottom left and slopes slightly upward to the right. Throughout the image, the red line remains above the blue line without crossing it.
+0
+set1/0/image_14_thickness_4.png
+The blue and red lines intersect once in the image. The blue line starts high on the left, dips down in the middle, and then rises again on the right. The red line starts low on the left, rises to a peak in the middle, and then descends on the right. These two lines cross each other at a single point near the center of the image.
+1
+set1/0/image_96_thickness_4.png
+The blue and red lines do not intersect at any point in this image. The red line forms a V-shape with a sharp angle in the middle, while the blue line is a gradually curving line that remains below the red line throughout the entire graph.
+0
+set1/0/image_130_thickness_4.png
+The blue and red lines in this image do not intersect at all. The blue line forms a zigzag pattern above the straight red line, but they never cross each other.
+0
+set1/0/image_69_thickness_4.png
+The blue and red lines in this image do not intersect at any point. The blue line forms a V-shape, starting high on the left, dipping down in the middle, and then rising again on the right. The red line starts below the blue line on the left and continues to descend, staying below the blue line throughout the entire image.
+0
+set1/0/image_3_thickness_4.png
+The blue and red lines intersect once in this image. The blue line forms a V-shape, while the red line starts horizontally and then angles upward. These two lines cross each other at a single point near the right side of the image.
+1
+set1/0/image_21_thickness_4.png
+The blue and red lines in this image intersect once. The blue line starts below the red line, rises more steeply, and then crosses over the red line about two-thirds of the way across the image from left to right. After this intersection point, the blue line remains above the red line for the remainder of the graph.
+1
+set1/0/image_121_thickness_4.png
+The blue and red lines in this image do not intersect at any point. They are two separate, non-intersecting lines on the graph.
+0
+set1/0/image_66_thickness_4.png
+The blue and red lines in this image do not intersect at all. They are two separate angular lines, with the blue line positioned above the red line. Both lines have a similar shape, rising to a peak in the middle and then descending, but they remain distinct and do not cross each other at any point.
+0
+set1/0/image_42_thickness_4.png
+The blue and red lines in this image do not intersect at all. The blue line is a straight diagonal line going upward from left to right across the top of the image. The red line is below it and forms a V-shape, going down and then up, but it never crosses or touches the blue line.
+0
+set1/0/image_36_thickness_4.png
+The blue and red lines in this image do not intersect at any point. They remain separate throughout the graph, with the blue line consistently above the red line. Both lines follow a similar pattern, starting horizontally and then angling downward, but they never cross each other.
+0
+set1/0/image_55_thickness_4.png
+The blue and red lines in this image do not intersect at all. They remain separate throughout the graph, with the blue line staying above the red line for the entire length shown.
+0
+set1/0/image_112_thickness_4.png
+The blue and red lines in this image do not intersect at all. The blue line is curved slightly upward and remains above the red line throughout the image. The red line forms a V-shape below the blue line, but at no point do the two lines cross or touch each other.
+0
+set1/0/image_12_thickness_4.png
+The blue and red lines in the image intersect once. The lines start separately, with the red line higher than the blue line. As they progress from left to right, they both have changes in slope, and eventually cross each other near the right side of the image before continuing upward.
+1
+set1/0/image_89_thickness_4.png
+The blue and red lines in this image do not intersect at all. The red line starts higher on the left side, dips down in the middle, and then rises again on the right side. The blue line starts lower on the left side and continues to descend gradually towards the right, maintaining a position below the red line throughout the image.
+0
+set1/0/image_20_thickness_4.png
+The blue and red lines do not intersect at all in this image. The blue line forms a V-shape or angle at the top of the image, while the red line is a straight horizontal line at the bottom of the image. These two lines do not cross or meet at any point.
+0
+set1/0/image_43_thickness_4.png
+The blue and red lines in this image do not intersect at any point. The red line starts higher than the blue line and remains above it throughout the graph. The blue line rises gradually and then levels off, while the red line remains flat for a portion and then rises sharply, but they never cross each other.
+0
+set1/0/image_104_thickness_4.png
+The blue and red lines in this image do not intersect at any point. They appear to be roughly parallel to each other, with the blue line positioned above the red line throughout the image. Both lines have a similar angular shape, but they remain separate and do not cross each other.
+0
+set1/0/image_27_thickness_4.png
+The blue and red lines in this image intersect 1 time. They cross each other at a single point near the left side of the image.
+1
+set1/0/image_5_thickness_4.png
+The blue and red lines in this image do not intersect at all. They are two separate V-shaped lines, with the blue line positioned above the red line. Both lines have a similar angle and shape, but they remain parallel and do not cross each other at any point.
+0
+set1/0/image_15_thickness_4.png
+The blue and red lines in this image do not intersect at all. They are separate lines that do not cross each other at any point.
+0
+set1/0/image_128_thickness_4.png
+The blue and red lines in this image do not intersect at all. They are two separate zigzag or angular lines, with the blue line positioned above the red line. Both lines have a similar shape, rising to a peak in the middle and then descending, but they remain distinct and do not cross each other at any point.
+0
+set1/1/image_110_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the image, where the blue line is rising and the red line is falling.
+1
+set1/1/image_109_thickness_4.png
+The blue and red lines intersect twice in this image. The lines start apart, then cross each other at one point, continue in different directions, and then cross again near the right side of the image.
+2
+set1/1/image_106_thickness_4.png
+The blue and red lines intersect once in this image. The red line starts horizontally at the top, then angles downward sharply, while the blue line gradually rises from left to right. These two lines cross each other at a single point near the center-right of the image.
+1
+set1/1/image_58_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the graph, where the red line starts above the blue line and then crosses below it.
+1
+set1/1/image_65_thickness_4.png
+The blue and red lines intersect once in this image. The lines start at different points, follow different paths, and cross each other at a single point near the right side of the image.
+1
+set1/1/image_84_thickness_4.png
+The blue and red lines intersect once in this image. The blue line starts lower on the left side, rises sharply to a peak, and then descends slightly to the right. The red line begins higher on the left, descends gradually, and then curves downward more steeply on the right side. These two lines cross each other at a single point near the center of the image.
+1
+set1/1/image_22_thickness_4.png
+The blue and red lines intersect 2 times in this image. They cross each other once near the top left of the image, and then again near the bottom right.
+2
+set1/1/image_18_thickness_4.png
+The blue and red lines intersect once in this image. The blue line starts low on the left, rises to a peak, and then descends. The red line starts higher on the left and gradually descends with a slight bend. These two lines cross each other at a single point near the left side of the image.
+1
+set1/1/image_83_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs towards the right side of the graph, where the descending blue line crosses the ascending red line.
+1
+set1/1/image_7_thickness_4.png
+The blue and red lines intersect once in this image. The blue line forms an inverted V shape, while the red line forms a shape similar to a checkmark. These two lines cross each other at a single point near the right side of the image.
+1
+set1/1/image_62_thickness_4.png
+The blue and red lines intersect once in this image. The lines start at different points on the left side of the image, with the red line higher than the blue line. They both rise as they move to the right, with the red line rising more steeply. Near the right side of the image, the red line begins to descend sharply while the blue line continues to rise slightly before leveling off. This creates a single point of intersection between the two lines.
+1
+set1/1/image_125_thickness_4.png
+The blue and red lines intersect 2 times in this image. The lines cross each other at two distinct points: once near the center of the image, and once towards the right side of the image.
+2
+set1/1/image_101_thickness_4.png
+The blue and red lines intersect once in this image. The blue line forms a V-shape, while the red line is straight and diagonal. These two lines cross each other at a single point near the center of the image.
+1
+set1/1/image_146_thickness_4.png
+The blue and red lines intersect 2 times in this image. They cross each other at two distinct points: once near the left side of the image and once near the right side.
+2
+set1/1/image_149_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the graph, where the blue line (which starts lower on the left and curves upward) crosses the red line (which starts higher on the left and then has two downward angles).
+1
+set1/1/image_17_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the center of the image, where the red line forms a sharp V-shape and the blue line changes direction from a steep downward slope to a more horizontal orientation.
+1
+set1/1/image_24_thickness_4.png
+The blue and red lines intersect once in this image. The lines cross each other at a single point near the center of the image.
+1
+set1/1/image_6_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the graph, where the descending red line crosses the initially flat blue line.
+1
+set1/1/image_147_thickness_4.png
+The blue and red lines intersect once in this image. Both lines form a V-shape, and they cross each other at a single point as they rise from their lowest points towards the right side of the image.
+1
+set1/1/image_100_thickness_4.png
+The blue and red lines intersect twice in this image. The intersections occur at the bottom left corner and the top right corner of the shape formed by the two lines.
+2
+set1/1/image_47_thickness_4.png
+The blue and red lines intersect once in this image. The lines start at different points on the left side of the image, with the red line starting higher. They then cross each other at a single point, after which the red line continues to rise more steeply than the blue line, maintaining a position above it for the remainder of the graph.
+1
+set1/1/image_94_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the right side of the graph, where the descending red line crosses the blue line.
+1
+set1/1/image_48_thickness_4.png
+The blue and red lines intersect 2 times in the image. They cross each other once near the center of the image, and then they meet again at the bottom point of the V-shape they form together.
+2
+set1/1/image_75_thickness_4.png
+The blue and red lines intersect once in this image. The blue line starts low on the left, rises to a peak, and then descends, while the red line starts higher on the left and descends continuously. These two lines cross each other at a single point near the left side of the image.
+1
+set1/1/image_132_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the right side of the image, where the red line rises to cross over the blue line.
+1
+set1/1/image_116_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the right side of the image, where the descending red line crosses the ascending blue line.
+1
+set1/1/image_51_thickness_4.png
+The blue and red lines intersect once in this image. The lines cross each other at a single point near the center of the image.
+1
+set1/1/image_9_thickness_4.png
+The blue and red lines intersect twice in this image. The lines cross each other at two distinct points: once near the left side of the image and once near the right side.
+2
+set1/1/image_11_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the graph, where the ascending red line crosses the relatively flat blue line.
+1
+set1/1/image_56_thickness_4.png
+The blue and red lines intersect once in this image. The lines cross each other at a single point near the center of the image.
+1
+set1/1/image_111_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs in the upper left portion of the image, where the descending blue line crosses the ascending red line.
+1
+set1/1/image_72_thickness_4.png
+The blue and red lines intersect once in this image. The blue line is descending diagonally from left to right across the image, while the red line starts horizontally on the left, then angles upward sharply, crossing the blue line at a single point near the center-right of the image.
+1
+set1/1/image_35_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the image, where the ascending blue line crosses the descending red line.
+1
+set1/1/image_40_thickness_4.png
+The blue and red lines intersect once in this image. The red line starts at the top left and descends diagonally across the image. The blue line starts horizontally on the left, then angles upward about midway through the image. These two lines cross each other at a single point near the center of the image.
+1
+set1/1/image_107_thickness_4.png
+The blue and red lines intersect twice in this image. The first intersection occurs near the center of the image, and the second intersection is towards the right side of the image.
+2
+set1/1/image_1_thickness_4.png
+The blue and red lines intersect once in this image. The lines cross each other at a single point near the center of the image, forming an "X" shape.
+1
+set1/1/image_85_thickness_4.png
+The blue and red lines intersect once in this image. They cross each other near the left side of the graph, forming an "X" shape at that point.
+1
+set1/1/image_123_thickness_4.png
+The blue and red lines intersect once in this image. They meet at a single point near the top center of the image, forming a peak where the two lines cross.
+1
+set1/1/image_59_thickness_4.png
+The blue and red lines intersect once in this image. The blue line starts lower on the left, rises to a peak in the middle, and then descends. The red line starts at the bottom left and gradually rises, crossing the blue line as it descends on the right side of the image.
+1
+set1/1/image_145_thickness_4.png
+The blue and red lines intersect once in this image. They cross each other near the upper left portion of the graph, after which they diverge and do not intersect again within the visible area of the image.
+1
+set1/1/image_99_thickness_4.png
+The blue and red lines intersect once in this image. The blue line starts from the upper left and descends diagonally to the lower right, while the red line begins at the lower left, rises, and then levels off. These two lines cross each other at a single point near the center of the image.
+1
+set1/1/image_45_thickness_4.png
+The blue and red lines intersect once in this image. The lines start at different points on the left side of the image, cross each other near the center, and then continue upward to the right side of the image without intersecting again.
+1
+set1/1/image_78_thickness_4.png
+The blue and red lines intersect once in this image. The lines cross each other at a single point near the center of the image, forming an "X" shape.
+1
+set1/1/image_126_thickness_4.png
+The blue and red lines intersect once in this image. The blue line is descending diagonally from left to right across the image, while the red line has a "V" shape. The intersection occurs near the center of the image where the descending blue line crosses the ascending part of the red line's "V" shape.
+1
+set1/1/image_4_thickness_4.png
+The blue and red lines intersect once in this image. The blue line starts higher on the left side and descends towards the right, while the red line starts lower on the left and ascends. They cross each other at a single point near the right side of the image.
+1
+set1/1/image_129_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the image, where the ascending red line crosses over the descending blue line.
+1
+set1/1/image_53_thickness_4.png
+The blue and red lines intersect once in this image. They meet at a single point on the right side of the figure.
+1
+set1/1/image_30_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the image, where the descending blue line crosses the ascending red line.
+1
+set1/1/image_70_thickness_4.png
+The blue and red lines intersect 2 times in this image. The first intersection occurs near the center of the image, where the descending red line crosses the ascending blue line. The second intersection is towards the right side of the image, where the ascending red line crosses the continuing blue line.
+2
+set1/1/image_37_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the top of the graph, where the blue line rises to meet the red line before both lines descend together.
+1
+set1/1/image_54_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the graph, where the red line starts below the blue line and then crosses over it as both lines move towards the right.
+1
+set1/1/image_138_thickness_4.png
+The blue and red lines intersect once in this image. The blue line forms an inverted V shape, while the red line starts below the blue line, rises, and then continues upward. They cross each other at a single point near the peak of the blue line.
+1
+set1/1/image_105_thickness_4.png
+The blue and red lines intersect 2 times in this image. The lines cross each other at two distinct points, forming an X-like pattern.
+2
+set1/1/image_38_thickness_4.png
+The blue and red lines intersect 2 times in this image. They intersect once at the top-left corner of the shape and once at the bottom-right corner of the shape.
+2
+set1/1/image_142_thickness_4.png
+The blue and red lines intersect twice in this image. The first intersection occurs near the upper left portion of the image, and the second intersection is at the bottom right corner where both lines meet at a point.
+2
+set1/1/image_90_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the image, where the ascending blue line crosses the descending red line.
+1
+set1/1/image_136_thickness_4.png
+The blue and red lines intersect once in this image. The lines cross each other at a single point near the center of the image, forming an "X" shape.
+1
+set1/1/image_71_thickness_4.png
+The blue and red lines intersect once in this image. The blue line starts higher on the left side and slopes downward, while the red line starts lower on the left side and has an upward trend. They cross each other at a single point near the right side of the image.
+1
+set1/1/image_120_thickness_4.png
+The blue and red lines intersect once in this image. The blue line starts from the bottom left, rises to a peak, and then descends to the bottom right. The red line starts from the bottom left, gradually rises, and then sharply increases towards the top right. These two lines cross each other at a single point near the center of the image.
+1
+set1/1/image_67_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the graph, where the blue line, which starts higher on the left, crosses below the red line as they both extend to the right.
+1
+set1/1/image_86_thickness_4.png
+The blue and red lines intersect once in this image. The blue line starts higher on the left side and descends sharply, while the red line starts lower on the left and ascends more gradually. They cross each other at a single point near the center of the image.
+1
+set1/1/image_143_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the graph, where the ascending blue line crosses the relatively flat red line.
+1
+set1/1/image_44_thickness_4.png
+The blue and red lines intersect once in this image. The red line starts high on the left side and descends diagonally, while the blue line starts low on the left and ascends. They cross each other at a single point near the center of the image.
+1
+set1/1/image_79_thickness_4.png
+The blue and red lines intersect 2 times in the image. The first intersection occurs near the left side of the image, and the second intersection is towards the right side, after the red line peaks and starts descending while the blue line continues to rise.
+2
+set1/1/image_144_thickness_4.png
+The blue and red lines intersect once in the image. They cross each other near the left side of the graph.
+1
+set1/1/image_98_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the image, where the descending blue line crosses the ascending red line.
+1
+set1/1/image_60_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the upper left portion of the image, where the descending red line crosses the ascending blue line.
+1
+set1/1/image_28_thickness_4.png
+The blue and red lines in the image intersect 2 times. The lines start apart, then cross each other once as they both rise, and then cross again as the red line descends while the blue line continues to rise more gradually.
+2
+set1/1/image_115_thickness_4.png
+The blue and red lines intersect once in this image. The lines start at different points, with the red line higher than the blue line. As they progress from left to right, they both have a downward slope initially. Then, both lines change direction, with the blue line having a sharp upward turn and the red line having a slight upward adjustment. This change in direction causes the lines to intersect at a single point before continuing in their respective directions.
+1
+set1/1/image_76_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the left side of the graph, where the ascending red line crosses over the blue line.
+1
+set1/1/image_31_thickness_4.png
+The blue and red lines intersect twice in this image. The first intersection occurs near the left side of the image, where the blue line starts. The second intersection is on the right side of the image, where the red line is descending and the blue line is ascending.
+2
+set1/1/image_97_thickness_4.png
+The blue and red lines intersect once in this image. Both lines start at different points on the left side of the image, dip down towards the center (with the red line dipping lower), and then rise again towards the right side. They cross each other at a single point as they rise on the right side of the image.
+1
+set1/2/image_10_thickness_4.png
+The blue and red lines intersect 2 times in the image. There is one intersection point near the top left of the image, and another intersection point near the bottom right of the image.
+2
+set1/2/image_34_thickness_4.png
+The blue and red lines intersect 2 times in this image. They intersect once at the left side of the image where both lines begin, and once again towards the right side of the image where the blue line is descending and crosses the ascending red line.
+2
+set1/2/image_141_thickness_4.png
+The blue and red lines intersect twice in this image. The blue line forms a V-shape that crosses the straight horizontal red line at two distinct points.
+2
+set1/2/image_41_thickness_4.png
+The blue and red lines intersect twice in this image. The first intersection occurs near the middle of the image as the lines are descending. The second intersection happens shortly after, as the blue line begins to ascend while the red line continues on a more gradual upward slope.
+2
+set1/2/image_122_thickness_4.png
+The blue and red lines intersect twice in this image. The red line forms a triangular shape, crossing the blue line once as it rises and again as it falls.
+2
+set1/2/image_0_thickness_4.png
+The blue and red lines intersect 2 times in this image. The first intersection occurs on the left side of the image as the blue line rises and the red line falls. The second intersection is on the right side of the image as the blue line descends and the red line rises slightly.
+2
+set1/2/image_25_thickness_4.png
+The blue and red lines intersect 2 times in this image. The first intersection occurs near the left side of the image, where the rising red line crosses the horizontal blue line. The second intersection is on the right side of the image, where the rising blue line crosses the horizontal red line.
+2
+set1/2/image_46_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the center of the image, where the blue line changes direction from descending to ascending, and the red line changes from a gentle upward slope to a steeper upward slope.
+1
+set1/2/image_117_thickness_4.png
+The blue and red lines intersect 2 times in this image. The first intersection occurs near the left side of the image, and the second intersection is towards the right side of the image.
+2
+set1/2/image_50_thickness_4.png
+The blue and red lines intersect twice in this image. The first intersection occurs near the left side of the image as the blue line descends and the red line ascends. The second intersection is on the right side of the image where the blue line rises to meet the horizontal portion of the red line.
+2
+set1/2/image_63_thickness_4.png
+The blue and red lines intersect 3 times in the image. You can see the lines crossing each other at three distinct points: once near the left side of the image, once in the middle, and once towards the right side of the image.
+3
+set1/2/image_82_thickness_4.png
+The blue and red lines intersect 2 times in this image. The red line forms a peaked shape, while the blue line is straight and diagonal. They cross each other once near the left side of the image and once again on the right side of the peak in the red line.
+2
+set1/2/image_16_thickness_4.png
+The blue and red lines intersect once in this image. The blue line is descending from left to right across the image, while the red line starts lower on the left side and ascends sharply to the right. These two lines cross each other at a single point near the center of the image.
+1
+set1/2/image_93_thickness_4.png
+The blue and red lines intersect twice in this image. The first intersection occurs near the left side of the image as the red line descends and crosses the blue line. The second intersection is on the right side of the image as the red line ascends and crosses the blue line again.
+2
+set1/2/image_61_thickness_4.png
+The blue and red lines intersect 2 times in this image. The first intersection occurs near the left side of the image as the red line rises and crosses the descending blue line. The second intersection is on the right side of the image, where the red line descends and crosses the blue line again.
+2
+set1/2/image_80_thickness_4.png
+The blue and red lines intersect 2 times in this image. The first intersection occurs near the top left of the image, and the second intersection is towards the bottom right.
+2
+set1/2/image_29_thickness_4.png
+The blue and red lines intersect once in this image. The intersection occurs near the center of the image, where the blue line forms a V-shape and the red line crosses through it.
+1
+set1/2/image_77_thickness_4.png
+The blue and red lines intersect 2 times in this image. The lines cross each other once near the left side of the image and once near the right side, forming an X-like shape overall.
+2
+set1/2/image_137_thickness_4.png
+The blue and red lines intersect twice in this image. The first intersection occurs near the left side of the image, and the second intersection is on the right side where the red line crosses the horizontal part of the blue line.
+2
+set1/2/image_91_thickness_4.png
+The blue and red lines intersect 3 times in this image. You can see the lines crossing each other at three distinct points: once near the left side of the image, once in the middle, and once towards the right side of the image.
+3
+set1/2/image_13_thickness_4.png
+The blue and red lines intersect 2 times in this image. The lines cross each other at two distinct points: once on the left side of the image and once on the right side.
+2
+set1/2/image_88_thickness_4.png
+The blue and red lines intersect 2 times in this image. The first intersection occurs near the left side of the image as the blue line rises and crosses the descending red line. The second intersection is on the right side of the image where the descending blue line crosses the rising red line.
+2
+set1/2/image_113_thickness_4.png
+The blue and red lines intersect twice in this image. The first intersection occurs near the center of the image, and the second intersection is slightly to the right of center.
+2
+set1/2/image_87_thickness_4.png
+The blue and red lines intersect 3 times in this image. The lines cross each other at three distinct points as they zigzag across the image.
+3
+set1/2/image_68_thickness_4.png
+The blue and red lines intersect 2 times in this image. There is one intersection point on the left side of the image where the descending red line crosses the ascending blue line. The second intersection occurs on the right side of the image where the slightly ascending red line crosses the descending blue line.
+2
+set1/2/image_2_thickness_4.png
+The blue and red lines intersect 2 times in this image. There is one intersection point near the top left of the image, and another intersection point near the bottom right.
+2
+set1/2/image_39_thickness_4.png
+The blue and red lines intersect 2 times in this image. The first intersection occurs near the left side of the image as the red line descends and crosses the ascending blue line. The second intersection is on the right side of the image, where the red line ascends and crosses the descending blue line.
+2
+set1/2/image_139_thickness_4.png
+The blue and red lines intersect twice in this image. The red line forms a triangle-like shape, crossing the blue line once as it rises and once as it falls back down. The blue line is mostly horizontal with a slight upward curve towards the right side of the image.
+2
+set1/2/image_103_thickness_4.png
+The blue and red lines intersect 3 times in this image. The lines cross each other at three distinct points as they zigzag across the image.
+3
+set1/2/image_81_thickness_4.png
+The blue and red lines intersect twice in this image. The first intersection occurs near the upper left portion of the image, and the second intersection is near the lower right portion of the image.
+2
+set1/2/image_127_thickness_4.png
+The blue and red lines intersect twice in this image. They cross each other once near the left side of the image and once again towards the right side.
+2
+set1/2/image_52_thickness_4.png
+The blue and red lines intersect twice in this image. The first intersection occurs near the center of the image, and the second intersection is towards the upper right corner.
+2
+set1/2/image_131_thickness_4.png
+The blue and red lines intersect 2 times in this image. The red line forms a triangle shape, while the blue line is nearly horizontal. The two lines intersect at the left side of the image and again at the right side.
+2
+Results summary:
+Expected count 0: 35/45 correct (Accuracy: 77.78%)
+Failed images for count 0:
+  - set1/0/image_49_thickness_4.png
+  - set1/0/image_95_thickness_4.png
+  - set1/0/image_33_thickness_4.png
+  - set1/0/image_140_thickness_4.png
+  - set1/0/image_26_thickness_4.png
+  - set1/0/image_14_thickness_4.png
+  - set1/0/image_3_thickness_4.png
+  - set1/0/image_21_thickness_4.png
+  - set1/0/image_12_thickness_4.png
+  - set1/0/image_27_thickness_4.png
+Expected count 1: 57/72 correct (Accuracy: 79.17%)
+Failed images for count 1:
+  - set1/1/image_109_thickness_4.png
+  - set1/1/image_22_thickness_4.png
+  - set1/1/image_125_thickness_4.png
+  - set1/1/image_146_thickness_4.png
+  - set1/1/image_100_thickness_4.png
+  - set1/1/image_48_thickness_4.png
+  - set1/1/image_9_thickness_4.png
+  - set1/1/image_107_thickness_4.png
+  - set1/1/image_70_thickness_4.png
+  - set1/1/image_105_thickness_4.png
+  - set1/1/image_38_thickness_4.png
+  - set1/1/image_142_thickness_4.png
+  - set1/1/image_79_thickness_4.png
+  - set1/1/image_28_thickness_4.png
+  - set1/1/image_31_thickness_4.png
+Expected count 2: 26/33 correct (Accuracy: 78.79%)
+Failed images for count 2:
+  - set1/2/image_46_thickness_4.png
+  - set1/2/image_63_thickness_4.png
+  - set1/2/image_16_thickness_4.png
+  - set1/2/image_29_thickness_4.png
+  - set1/2/image_91_thickness_4.png
+  - set1/2/image_87_thickness_4.png
+  - set1/2/image_103_thickness_4.png
+Overall accuracy: 78.67%

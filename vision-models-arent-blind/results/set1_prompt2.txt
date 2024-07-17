@@ -1,0 +1,27 @@
+Results summary:
+Expected count 0: 39/45 correct (Accuracy: 86.67%)
+Failed images for count 0:
+  - set1/0/image_49_thickness_4.png
+  - set1/0/image_95_thickness_4.png
+  - set1/0/image_33_thickness_4.png
+  - set1/0/image_26_thickness_4.png
+  - set1/0/image_14_thickness_4.png
+  - set1/0/image_3_thickness_4.png
+Expected count 1: 65/72 correct (Accuracy: 90.28%)
+Failed images for count 1:
+  - set1/1/image_146_thickness_4.png
+  - set1/1/image_100_thickness_4.png
+  - set1/1/image_11_thickness_4.png
+  - set1/1/image_105_thickness_4.png
+  - set1/1/image_38_thickness_4.png
+  - set1/1/image_142_thickness_4.png
+  - set1/1/image_31_thickness_4.png
+Expected count 2: 27/33 correct (Accuracy: 81.82%)
+Failed images for count 2:
+  - set1/2/image_41_thickness_4.png
+  - set1/2/image_46_thickness_4.png
+  - set1/2/image_63_thickness_4.png
+  - set1/2/image_16_thickness_4.png
+  - set1/2/image_29_thickness_4.png
+  - set1/2/image_52_thickness_4.png
+Overall accuracy: 87.33%

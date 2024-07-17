@@ -1,0 +1,17 @@
+Results summary:
+Expected count 0: 30/35 correct (Accuracy: 85.71%)
+Failed images for count 0:
+  - set2/0/image_100_thickness_4.png
+  - set2/0/image_91_thickness_4.png
+  - set2/0/image_37_thickness_4.png
+  - set2/0/image_139_thickness_4.png
+  - set2/0/image_44_thickness_4.png
+Expected count 1: 75/77 correct (Accuracy: 97.40%)
+Failed images for count 1:
+  - set2/1/image_110_thickness_4.png
+  - set2/1/image_70_thickness_4.png
+Expected count 2: 36/38 correct (Accuracy: 94.74%)
+Failed images for count 2:
+  - set2/2/image_57_thickness_4.png
+  - set2/2/image_126_thickness_4.png
+Overall accuracy: 94.00%
