@@ -1,6 +1,6 @@
 # VLMs aren't blind
 
-Code for [this blog post]()
+Code for [this blog post](https://github.com/danielcorin/blog/blob/main/content/posts/2024/vlms-arent-blind.md)
 
 [Live article](https://danielcorin.com/posts/2024/vlms-arent-blind/)
 
