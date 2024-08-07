@@ -4,6 +4,8 @@ Code for [this blog post](https://github.com/danielcorin/blog/blob/main/content/
 
 [Live article](https://danielcorin.com/posts/2024/vlms-arent-blind/)
 
+Images in `set1` and `set2` generated with [this code](https://github.com/anguyen8/vision-llms-are-blind/blob/9414e9ca6d81b8038d30eef0ac2195bba5c6d55c/src/LineIntersection/GenerateSamples.ipynb)
+
 ## Setup
 
 ```sh
