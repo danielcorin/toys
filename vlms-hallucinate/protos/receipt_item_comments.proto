@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package receipt_item_comments;
+
+message Receipt {
+  string merchant = 1;
+  string date = 2;
+  repeated LineItem line_items = 3;
+  // do not extract unless value is present
+  float subtotal = 4;
+  // do not extract unless value is present
+  float tax = 5;
+  // do not extract unless value is present
+  float total = 6;
+}
+
+message LineItem {
+  string item = 1;
+  float price = 2;
+}

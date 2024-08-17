@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package receipt;
+
+message Receipt {
+  string merchant = 1;
+  string date = 2;
+  repeated LineItem line_items = 3;
+  float subtotal = 4;
+  float tax = 5;
+  float total = 6;
+}
+
+message LineItem {
+  string item = 1;
+  float price = 2;
+}

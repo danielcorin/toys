@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package receipt_optionals;
+
+message Receipt {
+  string merchant = 1;
+  string date = 2;
+  repeated LineItem line_items = 3;
+  optional float subtotal = 4;
+  optional float tax = 5;
+  optional float total = 6;
+}
+
+message LineItem {
+  string item = 1;
+  float price = 2;
+}
