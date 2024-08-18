@@ -1,6 +1,6 @@
 # VLMs hallucinate
 
-The project contains the code for [this blog post](https://github.com/danielcorin/blog/blob/main/content/posts/2024/vlms-hallucinate.md)
+This project contains the code for [this blog post](https://github.com/danielcorin/blog/blob/main/content/posts/2024/vlms-hallucinate.md)
 
 [Live article](https://www.danielcorin.com/posts/2024/vlms-hallucinate/)
 
