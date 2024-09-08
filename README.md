@@ -11,4 +11,4 @@ Small projects and half baked ideas.
 - VLMs aren't blind: Code attempting to reproduce some of the results of the [Vision language models are blind](https://vlmsareblind.github.io/) paper
 - Protobuf Zip Imports: Generate and import Python code for a Protocol Buffer service in and as a zip file
 - VLMs Hallucinate: Experiments doing data extraction from images with VLMs and edge cases
-- Fast HTML Loading Spinner: An mvp of a form in `fasthtml` with a loading spinner while request is in flight
+- FastHTML Loading Spinner: An mvp of a form in `fasthtml` with a loading spinner while request is in flight
