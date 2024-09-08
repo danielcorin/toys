@@ -14,10 +14,7 @@ compile: venv
 	uv pip compile requirements.in -o requirements.txt
 	uv pip compile requirements-dev.in -o requirements-dev.txt
 
-.PHONY: run
-run:
-	@echo "Add run command here"
-
-.PHONY: serve
-serve:
+.PHONY: run serve
+run serve:
 	uvicorn main:app --reload
+
